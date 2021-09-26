@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+<a href="https://fontmeme.com/among-us-font/"><img src="https://fontmeme.com/permalink/210926/71159b22cd2ebcd099fcd05a58788303.png" alt="among-us-font" border="0"></a>
 
-<!--
-**souravkl11/souravkl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+  
+  <details>
+    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
 
-Here are some ideas to get you started:
+<br>
+    <br>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+  [![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+
+    
+<div align="left">
+
+    
+- 🔭 I’m currently working on [Raganork bot](https://github.com/souravkl11/Raganork)
+- 🌱 I’m currently learning node js
+- 👯 I’m looking to collaborate on nobody
+- 💬 Ask me about anything. I don't know anything
+- 📫 How to reach me: [Whatsapp group](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN), [Instagram](https://www.instagram.com/sourav_kl11/)
 -->
