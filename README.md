@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://bit.ly/Raganork"><img src="https://rgnk.herokuapp.com/api/personal/welcome?apikey=5EzAGZL08X" alt="s_k_l_1.1" border="0"></a>
+<a href="https://bit.ly/Raganork"><img src="https://fontmeme.com/permalink/220111/b87c9082576f977f44e3140bb6fb8287.png" alt="s_k_l_1.1" border="0"></a>
 
 <p>  
 <p>  
