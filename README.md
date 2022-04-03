@@ -13,11 +13,6 @@
 
 <br>
     <br>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
-
-
-  [![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
 
     
 <div align="left">
@@ -28,5 +23,5 @@
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything
-- 📫 How to reach me: [Whatsapp group](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN), [Instagram](https://www.instagram.com/sourav_kl11/)
+- 📫 How to reach me: [Whatsapp group](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN), [Instagram](https://www.instagram.com/sou6av/)
 -->
