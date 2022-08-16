@@ -1,7 +1,8 @@
 ### Hey there!
 
 - 🙂 I’m Sourav, 15 years old
-- 🔭 I’m currently working on [Raganork WhatsApp bot](https://github.com/souravkl11/Raganork)
+- 🌴 From God's own country 
+- 🔭 I’m currently working on [whatsapp-bot](https://github.com/souravkl11/Raganork)
 - 🌱 I’m currently learning node js
-- 📫 How to reach me: [Instagram](https://www.instagram.com/sou6av/)
+- 📫 How to reach me: [Email](mailto:sou6avkl11@gmail.com), [WhatsApp](https://wa.me/14402225555)
 
