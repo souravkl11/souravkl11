@@ -1,8 +1,21 @@
 ### Hey there!
 
-- 🙂 I’m Sourav, 16 years old
-- 🌴 From God's own country 
-- 🔭 I’m currently working on [whatsapp-bot](https://github.com/souravkl11/Raganork)
-- 🌱 I’m currently learning node js
-- 📫 How to reach me: [Email](mailto:sou6avkl11@gmail.com), [WhatsApp](https://wa.me/14402225555)
+```javascript
+function Character(name, age, hobby) {
+  this.name = name;
+  this.age = age;
+  this.hobby = hobby;
+}
+
+Character.prototype.bio = function() {
+  return `Hi there, I'm ${this.name}, a ${this.age}-year-old who loves working with ${this.hobby}!`;
+}
+
+Character.prototype.interests = ['programming', 'video games', 'hanging out with friends'];
+
+const sourav = new Character('Sourav', 16, 'Node.js');
+console.log(sourav.bio());
+console.log(`My interests include: ${sourav.interests.join(', ')}.`);
+```
+- How to reach me: [Email](mailto:sou6avkl11@gmail.com), [WhatsApp](https://wa.me/14402225555)
 
