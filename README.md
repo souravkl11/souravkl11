@@ -11,7 +11,7 @@ Character.prototype.bio = function() {
   return `Hi there, I'm ${this.name}, a ${this.age}-year-old who loves working with ${this.hobby}!`;
 }
 
-Character.prototype.interests = ['programming', 'video games', 'hanging out with friends'];
+Character.prototype.interests = ['programming', 'workout', 'hanging out with friends'];
 
 const sourav = new Character('Sourav', 16, 'Node.js');
 console.log(sourav.bio());
